@@ -393,7 +393,7 @@ mergeInto(LibraryManager.library, {
     var hasMergeExcepionFile = false;
     var serverStrategy = {};
     var platformId = 32;
-    var sdkVersion = '1.3';
+    var sdkVersion = '1.3.0';
     var errorReportCMD = 930;
     var connnetReportCDM = 940;
     var coldStartup = 1;
